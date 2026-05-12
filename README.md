@@ -37,3 +37,6 @@ AGPL-3.0
 ## Author
 Akim Setenta @seventy.dev
 from Tratado da OmniScientia - A Pirâmide Quântica e a Física Moderna
+
+## Complete Study
+Link for full documents about this Theory of Everything: https://drive.google.com/drive/mobile/folders/1l6dsA0MKOPJhjWnnybJ5XZbsx5q4T3Ti
